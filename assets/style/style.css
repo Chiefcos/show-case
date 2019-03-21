@@ -9,14 +9,14 @@ body{
     background: black;
 }
 .web{
-    background: url(../images/background3.jpg);
+    background: url(../images/Background3.jpg);
     background-size: cover;
     background-position-x: center;
     height: 600px;
     text-align: center;
 }
 .photo{
-    background: url(../images/background1.jpg);
+    background: url(../images/Background1.jpg);
     background-size: cover;
     background-position-x: center;
     height: 600px;
